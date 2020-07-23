@@ -1,0 +1,10 @@
+Inicialização do projeto e instalação das bibliotecas
+npm init
+npm install --save express
+npm install --save sequelize
+npm install --save mysql2
+npm install --save body-parser
+npm install --save ejs
+
+No NodeJs a arquitetura mais comum é separar os arquivos por Domínios.
+Essa arquitetura é bem semelhante a MVC.
